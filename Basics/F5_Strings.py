@@ -17,3 +17,7 @@ basics '''
 info = """ Learn 
 Python from 
 basics """
+
+# Finding the length of string using --> len()
+game = "Cricket"
+print(len(game))
