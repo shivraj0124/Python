@@ -12,11 +12,13 @@ print(Firstname + Lastname)
 info = ''' Learn 
 Python from 
 basics '''
+print(info)
 
 # Strings with 3-Double quotes (Double inverted commas) Multiline string
 info = """ Learn 
 Python from 
 basics """
+print(info)
 
 # Finding the length of string using --> len()
 game = "Cricket"
