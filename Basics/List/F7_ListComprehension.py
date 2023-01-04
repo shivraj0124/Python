@@ -12,5 +12,3 @@ print(newList)
 thislist = ["Python", "Javascript", "Java", "C", "C++", "Php"]
 newList = [x for x in thislist if 'a' in x]
 print(newList)
-
-print(thislist.index())
